@@ -5,7 +5,7 @@ export default function Error() {
     <div style={{ textAlign: "center", padding: "50px" }}>
       <img 
         src="./error.webp" 
-        alt="404 Not Found" 
+        alt="404 Not Found  new branch 01-03-2025-v" 
         width={"3000px"}
         height={"1000px"}
         style={{ width: "50%", maxWidth: "400px" }} 
